@@ -57,3 +57,11 @@ git checkout main
     git checkout main
 
 - bhai bhai
+
+- To publish a new branch on github 
+    git push --set-upstream origin aditya
+- To push it 
+    git push origin <branch name>
+
+- To update all the changes till now
+    git pull
